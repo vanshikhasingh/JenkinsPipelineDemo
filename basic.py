@@ -11,5 +11,8 @@ List3 = []
 List3 = List1.copy()
 print("List3 =", List3)
 
+username='Vanshikha Singh'
+password='Singh'
+
 indexvalue = List2[2:6]
 print("The index values are", indexvalue)
